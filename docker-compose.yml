@@ -20,6 +20,18 @@ services:
         - ./www:/var/www/html
         - ./php/php.ini:/usr/local/etc/php/php.ini
         - ./php/www.conf:/usr/local/etc/php/fpm/pool.d/www.conf
+      links:
+        - db
       env_file:
         - ./www/.env
       restart: always
+      
+  db:
+      image: mariadb
+      environment:
+        - MYSQL_ROOT_PASSWORD=root
+        - MYSQL_DATABASE=housekeeping
+      volumes:
+        - ./database:/var/lib/mysql
+      ports:
+        - 3306:3306
