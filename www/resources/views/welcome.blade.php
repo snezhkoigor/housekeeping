@@ -282,8 +282,7 @@
                         <div class="item active">
                             <blockquote>
                                 <i class="fa fa-quote-left"></i>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra, nulla ut interdum fringilla,<br />
-                                urna massa cursus lectus, eget rutrum lectus neque non ex.
+                                Качественная уборка, аккуратно, чисто. Вежливое обслуживание. Спасибо!
                                 <i class="fa fa-quote-right"></i>
                             </blockquote>
                             <div class="name"> — <span class="text-theme">Клавдия Золотарева</span></div>
@@ -293,8 +292,7 @@
                         <div class="item">
                             <blockquote>
                                 <i class="fa fa-quote-left"></i>
-                                Donec cursus ligula at ante vulputate laoreet. Nulla egestas sit amet lorem non bibendum.<br />
-                                Nulla eget risus velit. Pellentesque tincidunt velit vitae tincidunt finibus.
+                                Александр ответственный, добросовестный, ответственный мужчина. Уборкой доволен!
                                 <i class="fa fa-quote-right"></i>
                             </blockquote>
                             <div class="name"> — <span class="text-theme">Иван Петров</span></div>
@@ -304,8 +302,7 @@
                         <div class="item">
                             <blockquote>
                                 <i class="fa fa-quote-left"></i>
-                                Sed tincidunt quis est sed ultrices. Sed feugiat auctor ipsum, sit amet accumsan elit vestibulum<br />
-                                fringilla. In sollicitudin ac ligula eget vestibulum.
+                                Очень быстро и качетсвенно. Спасибо!
                                 <i class="fa fa-quote-right"></i>
                             </blockquote>
                             <div class="name"> — <span class="text-theme">Людмила Афанасьева</span></div>
@@ -333,7 +330,7 @@
             <div class="container" data-animation="true" data-animation-type="fadeInDown">
                 <h2 class="content-title">Наши работы</h2>
                 <p class="content-desc">
-                    Посомтрите примеры последних наших выполненных работ и принимайте решение
+                    Посмотрите примеры последних наших выполненных работ и принимайте решение
                 </p>
                 <!-- begin row -->
                 <div class="row row-space-10">
@@ -342,11 +339,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/img/work/work-img-1.jpg" alt="Work 1" /></a>
-                            </div>
-                            <div class="desc">
-                                <span class="desc-title">Aliquam molestie</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <img src="/img/work/1.jpg" alt="Работа 1" />
                             </div>
                         </div>
                         <!-- end work -->
@@ -357,11 +350,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/img/work/work-img-2.jpg" alt="Work 2" /></a>
-                            </div>
-                            <div class="desc">
-                                <span class="desc-title">Quisque at pulvinar lacus</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <img src="/img/work/2.jpg" alt="Работа 2" />
                             </div>
                         </div>
                         <!-- end work -->
@@ -372,11 +361,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/img/work/work-img-3.jpg" alt="Work 3" /></a>
-                            </div>
-                            <div class="desc">
-                                <span class="desc-title">Vestibulum et erat ornare</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <img src="/img/work/3.jpg" alt="Работа 3" />
                             </div>
                         </div>
                         <!-- end work -->
@@ -387,11 +372,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/img/work/work-img-4.jpg" alt="Work 4" /></a>
-                            </div>
-                            <div class="desc">
-                                <span class="desc-title">Sed vitae mollis magna</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <img src="/img/work/4.jpg" alt="Работа 4" />
                             </div>
                         </div>
                         <!-- end work -->
@@ -406,11 +387,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/img/work/work-img-5.jpg" alt="Work 5" /></a>
-                            </div>
-                            <div class="desc">
-                                <span class="desc-title">Suspendisse at mattis odio</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <img src="/img/work/5.jpg" alt="Работа 5" />
                             </div>
                         </div>
                         <!-- end work -->
@@ -421,11 +398,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/img/work/work-img-6.jpg" alt="Work 6" /></a>
-                            </div>
-                            <div class="desc">
-                                <span class="desc-title">Aliquam vitae commodo diam</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <img src="/img/work/6.jpg" alt="Работа 6" />
                             </div>
                         </div>
                         <!-- end work -->
@@ -436,11 +409,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/img/work/work-img-7.jpg" alt="Work 7" /></a>
-                            </div>
-                            <div class="desc">
-                                <span class="desc-title">Phasellus eu vehicula lorem</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <img src="/img/work/7.jpg" alt="Работа 7" />
                             </div>
                         </div>
                         <!-- end work -->
@@ -451,11 +420,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/img/work/work-img-8.jpg" alt="Work 8" /></a>
-                            </div>
-                            <div class="desc">
-                                <span class="desc-title">Morbi bibendum pellentesque</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <img src="/img/work/8.jpg" alt="Работа 8" />
                             </div>
                         </div>
                         <!-- end work -->
