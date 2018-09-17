@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Mail\SendNewInvoiceToAdminMail;
+use Carbon\Carbon;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Mail;
@@ -45,12 +46,15 @@ class MainController extends Controller
 						->insert([
 							'phone' => $request->get('phone'),
 							'message' => $request->get('message'),
-							'city' => $geo['city']
+							'city' => $geo['city'],
+							'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
+							'updated_at' => Carbon::now()->format('Y-m-d H:i:s')
 						]);
 
 					$message = 'Ваша заявка принята. Ожидайте, когда с вами свяжутся. Спасибо!';
 
-					Mail::to('domklining@yandex.ru')->send(new SendNewInvoiceToAdminMail($request->get('phone'), $geo['city'], $request->get('message')));
+					Mail::to('domklining@yandex.ru')
+						->send(new SendNewInvoiceToAdminMail($request->get('phone'), $geo['city'], $request->get('message')));
 				}
 				else
 				{

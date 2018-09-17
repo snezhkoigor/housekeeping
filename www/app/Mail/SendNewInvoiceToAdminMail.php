@@ -13,7 +13,7 @@ class SendNewInvoiceToAdminMail extends Mailable
 
     public $phone;
     public $city;
-    public $message;
+    public $text;
 	
 	
 	/**
@@ -26,7 +26,7 @@ class SendNewInvoiceToAdminMail extends Mailable
     {
         $this->phone = $phone;
         $this->city = $city;
-        $this->message = $message;
+        $this->text = $message;
     }
 
 
@@ -35,8 +35,9 @@ class SendNewInvoiceToAdminMail extends Mailable
      *
      * @return $this
      */
-    public function build()
+    public function build(): self
     {
-        return $this->view('emails.invoice.created');
+        return $this->view('emails.invoice.created')
+	        ->subject('Заказ на сайте СпецМастер.');
     }
 }
