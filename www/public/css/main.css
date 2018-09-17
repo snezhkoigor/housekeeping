@@ -1,0 +1,8 @@
+.header.navbar span.work-time {
+    float: left;
+    padding-top: 25px;
+    padding-left: 50px;
+}
+.header.navbar.navbar-small span.work-time {
+    padding-top: 15px;
+}
