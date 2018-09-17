@@ -350,7 +350,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <img src="/img/work/2.jpg" alt="Работа 2" />
+                                <img src="/img/work/8.jpg" alt="Работа 2" />
                             </div>
                         </div>
                         <!-- end work -->
@@ -361,7 +361,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <img src="/img/work/3.jpg" alt="Работа 3" />
+                                <img src="/img/work/7.jpg" alt="Работа 3" />
                             </div>
                         </div>
                         <!-- end work -->
@@ -409,7 +409,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <img src="/img/work/7.jpg" alt="Работа 7" />
+                                <img src="/img/work/3.jpg" alt="Работа 7" />
                             </div>
                         </div>
                         <!-- end work -->
@@ -420,7 +420,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <img src="/img/work/8.jpg" alt="Работа 8" />
+                                <img src="/img/work/2.jpg" alt="Работа 8" />
                             </div>
                         </div>
                         <!-- end work -->
