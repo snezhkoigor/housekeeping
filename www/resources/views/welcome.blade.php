@@ -21,7 +21,7 @@
 	<link href="/css/style.css" rel="stylesheet" />
 	<link href="/css/style-responsive.css" rel="stylesheet" />
 	<link href="/css/default.css" id="theme" rel="stylesheet" />
-    <link href="/css/main.css" id="theme" rel="stylesheet" />
+    <link href="/css/main.css" id="them-1" rel="stylesheet" />
 	<!-- ================== END BASE CSS STYLE ================== -->
 
 	<!-- ================== BEGIN BASE JS ================== -->
@@ -126,7 +126,7 @@
                             </div>
                             <div class="author">
                                 <div class="image">
-                                    <img src="/img/user/user-1.jpg" alt="Sean Ngu" />
+                                    <img src="/img/user/boss-f.jpg" alt="Тарас Терентьев" />
                                 </div>
                                 <div class="info">
                                     Тарас Терентьев
@@ -285,7 +285,14 @@
                                 Качественная уборка, аккуратно, чисто. Вежливое обслуживание. Спасибо!
                                 <i class="fa fa-quote-right"></i>
                             </blockquote>
-                            <div class="name"> — <span class="text-theme">Клавдия Золотарева</span></div>
+                            <div class="name">
+                                <div class="fio">
+                                    — <span class="text-theme">Алексей Гавшин</span>
+                                </div>
+                                <div class="photo">
+                                    <img src="/img/user/client-1.jpg" alt="Алексей Гавшин" width="90"/>
+                                </div>
+                            </div>
                         </div>
                         <!-- end item -->
                         <!-- begin item -->
@@ -295,7 +302,14 @@
                                 Александр ответственный, добросовестный, ответственный мужчина. Уборкой доволен!
                                 <i class="fa fa-quote-right"></i>
                             </blockquote>
-                            <div class="name"> — <span class="text-theme">Иван Петров</span></div>
+                            <div class="name">
+                                <div class="fio">
+                                    — <span class="text-theme">Елизавета Зыкина</span>
+                                </div>
+                                <div class="photo">
+                                    <img src="/img/user/client-2.jpg" alt="Елизавета Зыкина" width="90"/>
+                                </div>
+                            </div>
                         </div>
                         <!-- end item -->
                         <!-- begin item -->
@@ -305,7 +319,14 @@
                                 Очень быстро и качетсвенно. Спасибо!
                                 <i class="fa fa-quote-right"></i>
                             </blockquote>
-                            <div class="name"> — <span class="text-theme">Людмила Афанасьева</span></div>
+                            <div class="name">
+                                <div class="fio">
+                                    — <span class="text-theme">Виталий Наумов</span>
+                                </div>
+                                <div class="photo">
+                                    <img src="/img/user/client-3.jpg" alt="Виталий Наумов" width="90"/>
+                                </div>
+                            </div>
                         </div>
                         <!-- end item -->
                     </div>

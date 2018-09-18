@@ -6,3 +6,9 @@
 .header.navbar.navbar-small span.work-time {
     padding-top: 15px;
 }
+
+.photo img
+{
+    border-radius: 50%;
+    margin-top: 20px;
+}
