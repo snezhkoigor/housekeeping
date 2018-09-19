@@ -46,7 +46,7 @@
                         <img src="/img/logo/company-logo-top.png" alt="Client" />
                     </a>
                     <span class="work-time">
-                        г. <b>{{$geo['city']}}</b>, пн-вск, с <b>9:00</b> до <b>21:00</b>
+                        г. <b>{{$geo['city']}}</b>, <b>пн-вск</b>, с <b>9:00</b> до <b>21:00</b>
                     </span>
                 </div>
                 <!-- end navbar-header -->
