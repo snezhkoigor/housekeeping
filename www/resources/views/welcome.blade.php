@@ -458,7 +458,7 @@
         <div id="pricing" class="content" data-scrollview="true">
             <!-- begin container -->
             <div class="container">
-                <h2 class="content-title">Наши цены (выезд на дом в пределах города)</h2>
+                <h2 class="content-title">Наши цены</h2>
                 <p class="content-desc">
                     Наша компания придерживается гибкой ценовой политики. Поэтому наши цены ниже, чем у большинства конкурентов, предлагающих аналогичные услуги.
                 </p>
