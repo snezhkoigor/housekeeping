@@ -43,7 +43,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a href="/" class="navbar-brand">
-                        <img src="/img/logo/company-logo-top.png" alt="Client" />
+                        <img src="/img/logo/company-logo-top.png" alt="Логотип компании" />
                     </a>
                     <span class="work-time">
                         <b>пн-вск</b>, с <b>9:00</b> до <b>21:00</b>
@@ -72,7 +72,7 @@
         <div id="home" class="content has-bg home">
             <!-- begin content-bg -->
             <div class="content-bg">
-                <img src="/img/bg/bg-home.jpg" alt="Home" />
+                <img src="/img/bg/bg-home.jpg" alt="Домой" />
             </div>
             <!-- end content-bg -->
             <!-- begin container -->
@@ -268,7 +268,7 @@
         <div id="client" class="content has-bg bg-green" data-scrollview="true">
             <!-- begin content-bg -->
             <div class="content-bg">
-                <img src="/img/bg/bg-client.jpg" alt="Client" />
+                <img src="/img/bg/bg-client.jpg" alt="Background" />
             </div>
             <!-- end content-bg -->
             <!-- begin container -->
@@ -688,7 +688,7 @@
             <div class="container">
                 <div class="footer-brand">
                     <div>
-                        <img src="/img/logo/company-logo-bottom.png" alt="Client" />
+                        <img src="/img/logo/company-logo-bottom.png" alt="Логотип компании" />
                     </div>
                 </div>
             </div>
