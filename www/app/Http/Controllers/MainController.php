@@ -53,7 +53,7 @@ class MainController extends Controller
 
 					$message = 'Ваша заявка принята. Ожидайте, когда с вами свяжутся. Спасибо!';
 
-					Mail::to('domklining@yandex.ru')
+					Mail::to(env('ADMIN_INVOICE_EMAIL', 'domklining@yandex.ru'))
 						->send(new SendNewInvoiceToAdminMail($request->get('phone'), $geo['city'], $request->get('message')));
 				}
 				else
