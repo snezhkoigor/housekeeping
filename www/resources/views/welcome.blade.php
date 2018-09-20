@@ -46,7 +46,7 @@
                         <img src="/img/logo/company-logo-top.png" alt="Client" />
                     </a>
                     <span class="work-time">
-                        г. <b>{{$geo['city']}}</b>, <b>пн-вск</b>, с <b>9:00</b> до <b>21:00</b>
+                        <b>пн-вск</b>, с <b>9:00</b> до <b>21:00</b>
                     </span>
                 </div>
                 <!-- end navbar-header -->
@@ -652,6 +652,7 @@
                                 <label class="control-label col-md-2">Город <span class="text-theme">*</span></label>
                                 <div class="col-md-10">
                                     <input type="text" class="form-control" name="city" value="{{$form['city'] ?? $geo['city']}}" />
+                                    <span style="font-size: 11px">Исправьте значение города по умолчанию, если он не является верным в Вашем случае.</span>
                                 </div>
                             </div>
                             <div class="form-group">
