@@ -16,4 +16,9 @@
 .pricing-container h2 {
     color: #00acac;
     background: #f0f3f4;
+    margin: 4px;
+}
+
+.pricing-container h2 i {
+    padding: 5px;
 }
