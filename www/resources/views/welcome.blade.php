@@ -473,18 +473,127 @@
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h3>Сантехника</h3>
-                            <div class="price">
-                                <div class="price-figure">
-                                    <span class="price-number">от 500 руб.</span>
-                                </div>
+                            <h3>Ремонт</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
                             </div>
-                            <ul class="features">
-                                <li>Монтаж</li>
-                                <li>Ремонт</li>
-                                <li>Реставрация</li>
-                                <li>Установка</li>
-                            </ul>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Демонтаж</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Клининг</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Благоустройство</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Проектирование</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Дизайн</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Интерьер</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Лицензии</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Автоперевозки</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Услуги спецтехники</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Вывоз мусора</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Транспорт</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Инструмент</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Спецодежда</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Запчасти</h3>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Стройматериалы</h3>
                             <div class="footer">
                                 <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
                             </div>
@@ -493,17 +602,6 @@
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h3>Электрика</h3>
-                            <div class="price">
-                                <div class="price-figure">
-                                    <span class="price-number">от 300 руб.</span>
-                                </div>
-                            </div>
-                            <ul class="features">
-                                <li>Замена розетки</li>
-                                <li>Поиск неисправностей/ремонт</li>
-                                <li>Наладка автомата</li>
-                                <li>Установка/замена счетчиков</li>
-                            </ul>
                             <div class="footer">
                                 <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
                             </div>
@@ -511,18 +609,7 @@
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h3>Компьютеры</h3>
-                            <div class="price">
-                                <div class="price-figure">
-                                    <span class="price-number">от 200 руб.</span>
-                                </div>
-                            </div>
-                            <ul class="features">
-                                <li>Диагностика/Ремонт</li>
-                                <li>Замена</li>
-                                <li>Установка ОС</li>
-                                <li>Настройка, удаление вирусов</li>
-                            </ul>
+                            <h3>Сантехника</h3>
                             <div class="footer">
                                 <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
                             </div>
@@ -531,17 +618,6 @@
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h3>Мебель</h3>
-                            <div class="price">
-                                <div class="price-figure">
-                                    <span class="price-number">от 500 руб.</span>
-                                </div>
-                            </div>
-                            <ul class="features">
-                                <li>Сборка мебели</li>
-                                <li>Сборка прихожей</li>
-                                <li>Сборка мебели ИКЕЯ</li>
-                                <li>Ремонт</li>
-                            </ul>
                             <div class="footer">
                                 <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
                             </div>
@@ -549,18 +625,7 @@
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h3>Муж на час</h3>
-                            <div class="price">
-                                <div class="price-figure">
-                                    <span class="price-number">от 50 руб.</span>
-                                </div>
-                            </div>
-                            <ul class="features">
-                                <li>Услуга "Муж на час"</li>
-                                <li>Летом работы в саду</li>
-                                <li>Зимой чистка снега и прочее</li>
-                                <li>Дезинсекция</li>
-                            </ul>
+                            <h3>Все для сада</h3>
                             <div class="footer">
                                 <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
                             </div>
@@ -568,18 +633,7 @@
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h3>Переезд</h3>
-                            <div class="price">
-                                <div class="price-figure">
-                                    <span class="price-number">от 500 руб.</span>
-                                </div>
-                            </div>
-                            <ul class="features">
-                                <li>Квартирный</li>
-                                <li>Дачный</li>
-                                <li>Офисный</li>
-                                <li>Аренда грузовой газели</li>
-                            </ul>
+                            <h3>Обучение</h3>
                             <div class="footer">
                                 <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
                             </div>
@@ -587,44 +641,7 @@
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h3>Уборка</h3>
-                            <div class="price">
-                                <div class="price-figure">
-                                    <span class="price-number">от 500 руб.</span>
-                                </div>
-                            </div>
-                            <ul class="features">
-                                <li>Генеральная</li>
-                                <li>Промышленный альпинизм</li>
-                                <li>Мойка окон</li>
-                                <li>Экспресс-уборка</li>
-                            </ul>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
-                        </div>
-                    </li>
-                    <li data-animation="true" data-animation-type="fadeInUp">
-                        <div class="pricing-container">
-                            <h3>Строительство "под ключ"</h3>
-                            <div class="price">
-                                <div class="price-figure">
-                                    <span class="price-number">от 500 руб.</span>
-                                </div>
-                            </div>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
-                        </div>
-                    </li>
-                    <li data-animation="true" data-animation-type="fadeInUp">
-                        <div class="pricing-container">
-                            <h3>Перевозка сыпучих материалов</h3>
-                            <div class="price">
-                                <div class="price-figure">
-                                    <span class="price-number">от 500 руб.</span>
-                                </div>
-                            </div>
+                            <h3>Работа</h3>
                             <div class="footer">
                                 <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
                             </div>
