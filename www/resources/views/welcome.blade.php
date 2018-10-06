@@ -496,7 +496,7 @@
                 <ul class="pricing-table col-4">
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h2>Строительство</h2>
+                            <h2><i class="fa fa-car"></i>Строительство</h2>
                             <div class="footer">
                                 <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
                             </div>
