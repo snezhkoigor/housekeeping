@@ -88,7 +88,7 @@
                         <li><a href="#service" data-click="scroll-to-target">Почему мы?</a></li>
                         <li><a href="#client" data-click="scroll-to-target">Отызвы</a></li>
                         <li><a href="#work" data-click="scroll-to-target">Наши работы</a></li>
-                        <li><a href="#pricing" data-click="scroll-to-target">Стоимость</a></li>
+                        <li><a href="#pricing" data-click="scroll-to-target">Услуги</a></li>
                         <li><a href="#contact" data-click="scroll-to-target">Контакты</a></li>
                     </ul>
                 </div>
@@ -488,7 +488,7 @@
         <div id="pricing" class="content" data-scrollview="true">
             <!-- begin container -->
             <div class="container">
-                <h2 class="content-title">Наши цены</h2>
+                <h2 class="content-title">Наши услуги</h2>
                 <p class="content-desc">
                     Наша компания придерживается гибкой ценовой политики. Поэтому наши цены ниже, чем у большинства конкурентов, предлагающих аналогичные услуги.
                 </p>
