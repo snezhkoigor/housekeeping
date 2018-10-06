@@ -496,202 +496,127 @@
                 <ul class="pricing-table col-4">
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h2><i class="fa fa-building"></i>Строительство</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
+                            <h2>Строительство</h2>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h2><i class="fa fa-building"></i>Ремонт</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
+                            <h2>Ремонт</h2>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Демонтаж</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Клининг</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Благоустройство</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Проектирование</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Дизайн</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Интерьер</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Лицензии</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Автоперевозки</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Cпецтехника</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Вывоз мусора</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Транспорт</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Инструмент</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Спецодежда</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Запчасти</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Стройматериалы</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Электрика</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Сантехника</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Мебель</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Все для сада</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Обучение</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Работа</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Сварщик</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Массаж на дому</h2>
-                            <div class="footer">
-                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
-                            </div>
                         </div>
                     </li>
                 </ul>
