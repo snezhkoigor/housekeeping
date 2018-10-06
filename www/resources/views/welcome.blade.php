@@ -620,6 +620,9 @@
                         </div>
                     </li>
                 </ul>
+                <p style="text-align: center">
+                    <a href="#contact" class="btn btn-theme" data-click="scroll-to-target">Вызвать мастера</a>
+                </p>
             </div>
             <!-- end container -->
         </div>
