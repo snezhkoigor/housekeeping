@@ -552,7 +552,7 @@
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h3>Интерьер</h3>
+                            <h2>Интерьер</h2>
                             <div class="footer">
                                 <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
                             </div>
@@ -576,7 +576,7 @@
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h2>Услуги спецтехники</h2>
+                            <h2>Cпецтехника</h2>
                             <div class="footer">
                                 <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
                             </div>
