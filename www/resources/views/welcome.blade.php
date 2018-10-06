@@ -78,7 +78,6 @@
             <!-- begin container -->
             <div class="container home-content">
                 <h1>Служба бытового сервиса в Удмуртии</h1>
-                <h3>от 500 рублей</h3>
                 <p>
                     Мастер приедет и решит Вашу проблему через 1-3 часа
                 </p>
@@ -466,18 +465,7 @@
                 <ul class="pricing-table col-4">
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h3>Химчистка</h3>
-                            <div class="price">
-                                <div class="price-figure">
-                                    <span class="price-number">от 500 руб.</span>
-                                </div>
-                            </div>
-                            <ul class="features">
-                                <li>Ковры, ковролин, паласы</li>
-                                <li>Мебель</li>
-                                <li>Салон автомобилей</li>
-                                <li>Шторы, тюли, занавески</li>
-                            </ul>
+                            <h3>Строительство</h3>
                             <div class="footer">
                                 <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
                             </div>
@@ -611,6 +599,32 @@
                                 <li>Мойка окон</li>
                                 <li>Экспресс-уборка</li>
                             </ul>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Строительство "под ключ"</h3>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span class="price-number">от 500 руб.</span>
+                                </div>
+                            </div>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h3>Перевозка сыпучих материалов</h3>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span class="price-number">от 500 руб.</span>
+                                </div>
+                            </div>
                             <div class="footer">
                                 <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
                             </div>
