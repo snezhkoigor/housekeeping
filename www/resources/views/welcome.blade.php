@@ -678,6 +678,22 @@
                             </div>
                         </div>
                     </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h2>Сварщик</h2>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li data-animation="true" data-animation-type="fadeInUp">
+                        <div class="pricing-container">
+                            <h2>Массаж на дому</h2>
+                            <div class="footer">
+                                <a href="#contact" class="btn btn-inverse btn-block" data-click="scroll-to-target">Вызвать мастера</a>
+                            </div>
+                        </div>
+                    </li>
                 </ul>
             </div>
             <!-- end container -->
