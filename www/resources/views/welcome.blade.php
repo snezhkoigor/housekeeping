@@ -57,7 +57,6 @@
     </script>
     <noscript><div><img src="https://mc.yandex.ru/watch/50628484" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
-
 </head>
 <body data-spy="scroll" data-target="#header-navbar" data-offset="51">
     <!-- begin #page-container -->

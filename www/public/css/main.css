@@ -12,3 +12,8 @@
     border-radius: 50%;
     margin-top: 20px;
 }
+
+.pricing-container h3 {
+    color: #00acac;
+    background: #f0f3f4;
+}
