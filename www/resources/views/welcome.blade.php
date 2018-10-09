@@ -536,11 +536,6 @@
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h2>Лицензии</h2>
-                        </div>
-                    </li>
-                    <li data-animation="true" data-animation-type="fadeInUp">
-                        <div class="pricing-container">
                             <h2>Автоперевозки</h2>
                         </div>
                     </li>
@@ -561,26 +556,6 @@
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h2>Инструмент</h2>
-                        </div>
-                    </li>
-                    <li data-animation="true" data-animation-type="fadeInUp">
-                        <div class="pricing-container">
-                            <h2>Спецодежда</h2>
-                        </div>
-                    </li>
-                    <li data-animation="true" data-animation-type="fadeInUp">
-                        <div class="pricing-container">
-                            <h2>Запчасти</h2>
-                        </div>
-                    </li>
-                    <li data-animation="true" data-animation-type="fadeInUp">
-                        <div class="pricing-container">
-                            <h2>Стройматериалы</h2>
-                        </div>
-                    </li>
-                    <li data-animation="true" data-animation-type="fadeInUp">
-                        <div class="pricing-container">
                             <h2>Электрика</h2>
                         </div>
                     </li>
@@ -597,16 +572,6 @@
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Все для сада</h2>
-                        </div>
-                    </li>
-                    <li data-animation="true" data-animation-type="fadeInUp">
-                        <div class="pricing-container">
-                            <h2>Обучение</h2>
-                        </div>
-                    </li>
-                    <li data-animation="true" data-animation-type="fadeInUp">
-                        <div class="pricing-container">
-                            <h2>Работа</h2>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
