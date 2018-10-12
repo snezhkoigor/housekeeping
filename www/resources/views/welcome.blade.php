@@ -107,6 +107,7 @@
             <!-- end content-bg -->
             <!-- begin container -->
             <div class="container home-content">
+                <h2><a href="tel:+79828251907">+7 (982) 825-19-07</a></h2>
                 <h1>Служба бытового сервиса в Удмуртии</h1>
                 <h2>от 500 руб.</h2>
                 <p>
