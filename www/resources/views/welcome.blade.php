@@ -662,7 +662,7 @@
                     <div>
                         <img src="/img/logo/company-logo-bottom.png" alt="Логотип компании" />
                     </div>
-                    <div style="margin-top: 10px">
+                    <div style="margin-top: 10px; font-size: 11px">
                         © {{date('Y')}}
                     </div>
                 </div>
