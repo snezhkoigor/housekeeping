@@ -587,7 +587,7 @@
                     </li>
                 </ul>
             </div>
-            <div style="text-align: center">
+            <div style="text-align: center; margin-top: 30px">
                 <a href="#contact" class="btn btn-theme" data-click="scroll-to-target">Вызвать мастера</a>
             </div>
             <!-- end container -->
