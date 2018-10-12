@@ -662,6 +662,9 @@
                     <div>
                         <img src="/img/logo/company-logo-bottom.png" alt="Логотип компании" />
                     </div>
+                    <div>
+                        © {{date('Y')}}
+                    </div>
                 </div>
             </div>
         </div>
