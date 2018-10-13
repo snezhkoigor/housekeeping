@@ -508,86 +508,151 @@
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Ремонт</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">квартир под ключ, натяжка потолков, укладка паркета, установка окон, лоджий и балконов</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Демонтаж</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">домов, бань, сараев и любых коснтрукций</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Клининг</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">химчистка мягкой мебели и ковров, профессиональная уборка помещений, мойка окон, лоджий и балконов, химчистка детских колясок, пледов, подушек и одеял</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Благоустройство</h2>
-                        </div>
-                    </li>
-                    <li data-animation="true" data-animation-type="fadeInUp">
-                        <div class="pricing-container">
-                            <h2>Проектирование</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">уборка снега, стрижка газона и покос травы, прополка садово-огородного участка, посадка растений, корчевание кустов (пней), мойка фасадных зданий и другие работы</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Дизайн</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">квартир, домов, отдельных комнат, студий, места общественного питания</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h2>Интерьер</h2>
+                            <h2>Дизайн-проекты</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">квартир, домов, отдельных комнат, студий, места общественного питания</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h2>Автоперевозки</h2>
+                            <h2>грузоперевозки</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">помощь при переезде, сыпучих материалов, стройматериала, офисной мебели</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Cпецтехника</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">аренда авто, аренда спецтехники</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Вывоз мусора</h2>
-                        </div>
-                    </li>
-                    <li data-animation="true" data-animation-type="fadeInUp">
-                        <div class="pricing-container">
-                            <h2>Транспорт</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">мелкого и крупного</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Электрика</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">ремонт электрики, установка и проводка включателей/выключателей, замена светильников, прокладка новой проводки</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Сантехника</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">установка унитазов, раковин, душевых кабинок, ванн. Устранение засоров. Ремонт отдельных частей сантехники</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Мебель</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">установка и сборка, ремонт и восстановление старой мебели, мебель на заказ</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Все для сада</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">стрижка газона и покос травы, прополка садово-огородного участка, посадка растений, корчевание кустов (пней), мойка фасадных зданий и другие работы</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Сварщик</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">сварочные работы любой сложности</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Массаж на дому</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    <span style="font-size: 13px; color: white">рофессиональный массаж на дому всех частей тела</span>
+                                </div>
+                            </div>
                         </div>
                     </li>
                 </ul>
