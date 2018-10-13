@@ -500,7 +500,7 @@
                             <h2>Строительство</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">дома, бани, пристройки, гаражи, заборы, покрытие крыш</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">дома, бани, пристройки, гаражи, заборы, покрытие крыш</span>
                                 </div>
                             </div>
                         </div>
@@ -510,7 +510,7 @@
                             <h2>Ремонт</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">квартир под ключ, натяжка потолков, укладка паркета, установка окон, лоджий и балконов</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">квартир под ключ, натяжка потолков, укладка паркета, установка окон, лоджий и балконов</span>
                                 </div>
                             </div>
                         </div>
@@ -520,7 +520,7 @@
                             <h2>Демонтаж</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">домов, бань, сараев и любых коснтрукций</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">домов, бань, сараев и любых коснтрукций</span>
                                 </div>
                             </div>
                         </div>
@@ -530,7 +530,7 @@
                             <h2>Клининг</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">химчистка мягкой мебели и ковров, профессиональная уборка помещений, мойка окон, лоджий и балконов, химчистка детских колясок, пледов, подушек и одеял</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">химчистка мягкой мебели и ковров, профессиональная уборка помещений, мойка окон, лоджий и балконов, химчистка детских колясок, пледов, подушек и одеял</span>
                                 </div>
                             </div>
                         </div>
@@ -540,7 +540,7 @@
                             <h2>Дизайн</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">квартир, домов, отдельных комнат, студий, места общественного питания</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">квартир, домов, отдельных комнат, студий, места общественного питания</span>
                                 </div>
                             </div>
                         </div>
@@ -550,7 +550,7 @@
                             <h2>Дизайн-проекты</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">квартир, домов, отдельных комнат, студий, места общественного питания</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">квартир, домов, отдельных комнат, студий, места общественного питания</span>
                                 </div>
                             </div>
                         </div>
@@ -560,7 +560,7 @@
                             <h2>грузоперевозки</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">помощь при переезде, сыпучих материалов, стройматериала, офисной мебели</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">помощь при переезде, сыпучих материалов, стройматериала, офисной мебели</span>
                                 </div>
                             </div>
                         </div>
@@ -570,7 +570,7 @@
                             <h2>Cпецтехника</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">аренда авто, аренда спецтехники</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">аренда авто, аренда спецтехники</span>
                                 </div>
                             </div>
                         </div>
@@ -580,7 +580,7 @@
                             <h2>Вывоз мусора</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">мелкого и крупного</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">мелкого и крупного</span>
                                 </div>
                             </div>
                         </div>
@@ -590,7 +590,7 @@
                             <h2>Электрика</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">ремонт электрики, установка и проводка включателей/выключателей, замена светильников, прокладка новой проводки</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">ремонт электрики, установка и проводка включателей/выключателей, замена светильников, прокладка новой проводки</span>
                                 </div>
                             </div>
                         </div>
@@ -600,7 +600,7 @@
                             <h2>Сантехника</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">установка унитазов, раковин, душевых кабинок, ванн. Устранение засоров. Ремонт отдельных частей сантехники</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">установка унитазов, раковин, душевых кабинок, ванн. Устранение засоров. Ремонт отдельных частей сантехники</span>
                                 </div>
                             </div>
                         </div>
@@ -610,7 +610,7 @@
                             <h2>Мебель</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">установка и сборка, ремонт и восстановление старой мебели, мебель на заказ</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">установка и сборка, ремонт и восстановление старой мебели, мебель на заказ</span>
                                 </div>
                             </div>
                         </div>
@@ -620,7 +620,7 @@
                             <h2>Все для сада</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">стрижка газона и покос травы, прополка садово-огородного участка, посадка растений, корчевание кустов (пней), мойка фасадных зданий и другие работы</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">стрижка газона и покос травы, прополка садово-огородного участка, посадка растений, корчевание кустов (пней), мойка фасадных зданий и другие работы</span>
                                 </div>
                             </div>
                         </div>
@@ -630,7 +630,7 @@
                             <h2>Сварщик</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">сварочные работы любой сложности</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">сварочные работы любой сложности</span>
                                 </div>
                             </div>
                         </div>
@@ -640,7 +640,7 @@
                             <h2>Массаж на дому</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">рофессиональный массаж на дому всех частей тела</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">рофессиональный массаж на дому всех частей тела</span>
                                 </div>
                             </div>
                         </div>
@@ -650,7 +650,7 @@
                             <h2>Благоустройство</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span style="font-size: 13px; color: white; padding: 10px">уборка снега, стрижка газона и покос травы, прополка садово-огородного участка, посадка растений, корчевание кустов (пней), мойка фасадных зданий и другие работы</span>
+                                    <span style="font-size: 12px; color: white; padding: 10px">уборка снега, стрижка газона и покос травы, прополка садово-огородного участка, посадка растений, корчевание кустов (пней), мойка фасадных зданий и другие работы</span>
                                 </div>
                             </div>
                         </div>
