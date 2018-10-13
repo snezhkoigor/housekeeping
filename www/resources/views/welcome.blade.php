@@ -160,7 +160,7 @@
                                     <img src="/img/user/boss-face.jpg" alt="Тарас Терентьев" />
                                 </div>
                                 <div class="info">
-                                    Александр Бекментьев5
+                                    Александр Бекментьев
                                     <small>Директор компании</small>
                                 </div>
                             </div>
