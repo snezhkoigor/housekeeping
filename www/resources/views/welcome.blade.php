@@ -157,10 +157,10 @@
                             </div>
                             <div class="author">
                                 <div class="image">
-                                    <img src="/img/user/boss-f.jpg" alt="Тарас Терентьев" />
+                                    <img src="/img/user/boss-face.jpg" alt="Тарас Терентьев" />
                                 </div>
                                 <div class="info">
-                                    Тарас Терентьев
+                                    Александр Бекментьев5
                                     <small>Директор компании</small>
                                 </div>
                             </div>
