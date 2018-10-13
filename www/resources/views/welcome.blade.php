@@ -498,6 +498,11 @@
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
                             <h2>Строительство</h2>
+                            <div class="price">
+                                <div class="price-figure">
+                                    дома, бани, пристройки, гаражи, заборы, покрытие крыш
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
