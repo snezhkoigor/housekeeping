@@ -500,7 +500,7 @@
                             <h2>Строительство</h2>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span class="price-number">дома, бани, пристройки, гаражи, заборы, покрытие крыш</span>
+                                    <span style="font-size: 13px; color: white">дома, бани, пристройки, гаражи, заборы, покрытие крыш</span>
                                 </div>
                             </div>
                         </div>
