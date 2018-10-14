@@ -732,6 +732,9 @@
                 <a href="tel:+79828251907">
                     <i class="fa fa-phone-square"></i>
                 </a>
+                <a href="https://vk.com/public172057299" target="_blank" style="margin-left: 10px">
+                    <i class="fa fa-vk"></i>
+                </a>
             </p>
         </div>
         <!-- end float btns -->
