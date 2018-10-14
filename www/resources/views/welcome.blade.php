@@ -730,7 +730,7 @@
             <!-- stuff -->
             <p class="call-icon">
                 <a href="tel:+79828251907">
-                    <i class="fa fa-phone"></i>
+                    <i class="fa fa-phone-square"></i>
                 </a>
             </p>
         </div>

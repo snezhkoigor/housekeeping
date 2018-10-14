@@ -28,7 +28,8 @@
 }
 
 .float-box .call-icon {
-    position:absolute;
-    bottom:0;
-    left:0;
+    position: fixed;
+    bottom: 1em;
+    left: 1em;
+    font-size: 35px;
 }
