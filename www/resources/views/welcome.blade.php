@@ -725,19 +725,27 @@
         </div>
         <!-- end #contact -->
 
-        <!-- begin float btns -->
-        <div class="float-box">
+        <!-- begin left float btns -->
+        <div class="float-box-left">
             <!-- stuff -->
             <p class="call-icon">
                 <a href="tel:+79828251907">
                     <i class="fa fa-phone-square"></i>
                 </a>
+            </p>
+        </div>
+        <!-- end left float btns -->
+
+        <!-- begin right float btns -->
+        <div class="float-box-right">
+            <!-- stuff -->
+            <p class="call-icon">
                 <a href="https://vk.com/public172057299" target="_blank" style="margin-left: 10px">
                     <i class="fa fa-vk"></i>
                 </a>
             </p>
         </div>
-        <!-- end float btns -->
+        <!-- end right float btns -->
 
         <!-- begin #footer -->
         <div id="footer" class="footer">

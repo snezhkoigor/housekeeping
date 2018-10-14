@@ -23,13 +23,20 @@
     padding: 5px;
 }
 
-.float-box {
+.float-box-left {
     position:relative;
 }
 
-.float-box .call-icon {
+.float-box-left .call-icon {
     position: fixed;
     bottom: 1em;
     left: 1em;
+    font-size: 35px;
+}
+
+.float-box-right .call-icon {
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
     font-size: 35px;
 }
