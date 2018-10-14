@@ -725,6 +725,17 @@
         </div>
         <!-- end #contact -->
 
+        <!-- begin float btns -->
+        <div class="float-box">
+            <!-- stuff -->
+            <p class="call-icon">
+                <a href="tel:+79828251907">
+                    <i class="fa fa-phone"></i>
+                </a>
+            </p>
+        </div>
+        <!-- end float btns -->
+
         <!-- begin #footer -->
         <div id="footer" class="footer">
             <div class="container">
